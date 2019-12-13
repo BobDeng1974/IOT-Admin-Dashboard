@@ -2,11 +2,11 @@
 
 ### Emergency Service For Smart Home Systems Using Blockchain: System and Architecture
 
-
-#### Introduction
-
 Due to emerging disruptive technologies, play a vital role for smart living domains, for examples, elderly and disabilities healthcare services, home safety, security, energy monitoring and automation control services. Our systems will send automatically an emergency call with home user information and location as a privacy data to public services like hospitals, police offices, or fire departments. Emergency service for a Smart Home System (SHS) based on Ethereum or Eosio blockchain with smart contract for decentralized ledger technology handling access control among untrusted public services so called Home Service Providers (HSPs) and smart home IOT devices.
 
+#
+
+#### Introduction
 
 Establishing safe and secure living environment goes beyond protecting residents from a variety of threats like accidental injuries, crimes and life-threatening situations. Therefore, 24/7 monitoring and controlling safety and security services for residents such as elderly people, disabilities and independent living families increasingly demand for smart home Internet of Things (IoT), which require to send automatically an emergency call to public services like hospitals, police stations, fire departments, or household maintenances according to any abnormal situations. User information and home location transferred to those public services need to be protected from various of cyber-attacks according to GDPR and CBPR.
 
@@ -24,7 +24,7 @@ Is to protect user data or sensitive information from eavesdropper during data-i
 #### InterPlanetary File System (IPFS)
 IPFS is an open-source, content-addressable, and peer- to-peer (P2P) method of storing and sharing hypermedia in a distributed system. IPFS addresses file location with the content itself. This is done by using a cryptographic hash on the file. At our proposed work, we combine IPFS and Ethereum in distributed miner systems. The IPFS will be used to send an emergent incident from each home sensor management system to a regional miner technology.
 
-##### What is the InterPlanetary File System (IPFS):
+#### What is the InterPlanetary File System (IPFS):
 The InterPlanetary File System (IPFS) is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices. IPFS allows users to not only receive but host content, in a similar manner to BitTorrent. As opposed to a centrally located server, IPFS is built around a decentralized system of user-operators who hold a portion of the overall data, creating a resilient system of file storage and sharing. Any user in the network can serve a file by its content address, and other peers in the network can find and request that content from any node who has it using a distributed hash table (DHT).
 
 #### Authentication
