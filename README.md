@@ -1,2 +1,6 @@
 
-# Internet Of Thinks - Admin Dashboard
+# Internet Of Thinks (IOT)
+
+
+
+#### Admin Dashboard:
