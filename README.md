@@ -3,7 +3,8 @@
 ### Emergency Service For Smart Home Systems Using Blockchain: System and Architecture
 
 
-Emergency Service For Smart Home Systems Using EOSIO Blockchain: System and Architecture
+#### Introduction
+
 Due to emerging disruptive technologies, play a vital role for smart living domains, for examples, elderly and disabilities healthcare services, home safety, security, energy monitoring and automation control services. Our systems will send automatically an emergency call with home user information and location as a privacy data to public services like hospitals, police offices, or fire departments. Emergency service for a Smart Home System (SHS) based on Ethereum or Eosio blockchain with smart contract for decentralized ledger technology handling access control among untrusted public services so called Home Service Providers (HSPs) and smart home IOT devices.
 
 
